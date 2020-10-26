@@ -1,26 +1,26 @@
 ---
-event: 'OHBM Brainhack 2020'
+event: 'Space Hack Convention'
 
-title:  'Title goes here'
+title:  'Watching the world from far away: Missery and banana peel!'
 
 author:
-- initials: JD
-  surname: Doe
-  firstname: Jane
-  email: janedoe@gmail.com
-  affiliation: aff1, aff2
+- initials: IB
+  surname: Bilgin
+  firstname: Isil
+  email: bilginlab@gmail.com
+  affiliation: The Institute of Universe
   corref: aff1
   # Please make sure that you set corref (corresponding aff) if you have
   # multiple afiliations
-- initials: JJD
-  surname: Doe
-  firstname: John J.
-  email: johndoe@gmail.com
-  affiliation: aff2
-  url: https://jonhdoe.website.com
+- initials:
+  surname: 
+  firstname: 
+  email: 
+  affiliation: 
+  url:
 
 affiliations:
-- id: aff1
+- id: 
   orgname: 'Research Lab 1, Organization 1'
   street: street_name_goes_here 
   postcode: post_code_goes_here
@@ -37,13 +37,13 @@ affiliations:
 
 summary: Please write a brief summary of your project. This section will appear on the webpage. 
 
-url: http://github.com/repo_owner/repo_name
+url: http://github.com/complexbrains
 
 coi: Please add if there are competing interests. Otherwise, type None.
 
 acknow: The authors would like to thank the organizers and attendees of OHBM Brainhack 2020.
 
-contrib: JD and JJD wrote the software, JD performed tests, and JD and JJD wrote the report.
+contrib:  IB did the whole observations on earth and wrote her scientific thoughts through the star dusts.
 
 tags:
   - tag1
