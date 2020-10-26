@@ -1,4 +1,4 @@
-<h2 align="center"> STEP 1 - Get the machinery running ⚙️ </h2>
+<h2 align="center"> STEP 1 - How to be late to the game (Get the machinery running) ⚙️ </h2>
 
 <h3 align="center"> Fork this repository </h3>
 
